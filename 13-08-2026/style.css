@@ -1,0 +1,115 @@
+body {
+    font-family: Arial;
+    background: #f2f2f2;
+    margin: 0;
+}
+
+header {
+    background: white;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.user {
+    float: right;
+}
+
+main {
+    width: 90%;
+    margin: 30px auto;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.apps {
+    margin-top: 30px;
+}
+
+.app-card {
+    display: inline-block;
+    width: 28%;
+    height: 130px;
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.app-icon {
+    font-size: 35px;
+}
+
+.app-card h2 {
+    margin-bottom: 5px;
+}
+
+.blue {
+    background: #1683ff;
+}
+
+.purple {
+    background: purple;
+}
+
+.green {
+    background: green;
+}
+
+.orange {
+    background: orange;
+}
+
+.pink {
+    background: pink;
+}
+
+.dark {
+    background: #444;
+}
+
+.storage {
+    background: white;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.progress {
+    background: #ddd;
+    height: 10px;
+}
+
+.progress-bar {
+    background: blue;
+    width: 50%;
+    height: 10px;
+}
+
+button {
+    background: #1683ff;
+    color: white;
+    border: 0;
+    padding: 10px;
+}
+
+.file {
+    display: inline-block;
+    background: white;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: gray;
+}
